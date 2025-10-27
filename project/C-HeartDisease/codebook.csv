@@ -1,0 +1,40 @@
+Variable,Value
+State,"Categorical U.S. state of residence (e.g., Washington, New York, etc.)"
+Sex,"0 = Female, 1 = Male"
+AgeCategory,"Age bands: 18–24, 25–29, …, 80 or older (13 levels)"
+RaceEthnicityCategory,"Race/ethnicity categories (e.g., White only non‑Hispanic, Hispanic, Black, Asian, Other)"
+GeneralHealth,"Self‑rated general health: 1 = Excellent, 2 = Very good, 3 = Good, 4 = Fair, 5 = Poor"
+PhysicalHealthDays,Days in past 30 when physical health was not good (0–30)
+MentalHealthDays,Days in past 30 when mental health was not good (0–30)
+SleepHours,Average hours of sleep in 24 hours (numeric)
+HeightInMeters,Height in meters (numeric)
+WeightInKilograms,Weight in kilograms (numeric)
+BMI,Body Mass Index (numeric)
+SmokerStatus,"Smoking status: Never, Former, Now (some days/every day)"
+ECigaretteUsage,"E‑cigarette usage: Never used, Not at all, Some days, Every day"
+AlcoholDrinkers,"0 = No, 1 = Yes"
+PhysicalActivities,"0 = No, 1 = Yes (physical activity in past 30 days excluding job)"
+RemovedTeeth,"Extent of permanent teeth removed: None, 1–5, 6+ but not all, All"
+HadHeartAttack,"0 = No, 1 = Yes (ever told had a heart attack)"
+HadAngina,"0 = No, 1 = Yes (ever told had angina or coronary heart disease)"
+HadStroke,"0 = No, 1 = Yes (ever told had a stroke)"
+HadAsthma,"0 = No, 1 = Yes (ever told had asthma)"
+HadSkinCancer,"0 = No, 1 = Yes (ever told had skin cancer)"
+HadCOPD,"0 = No, 1 = Yes (ever told had chronic obstructive pulmonary disease)"
+HadDepressiveDisorder,"0 = No, 1 = Yes (ever told had depressive disorder)"
+HadKidneyDisease,"0 = No, 1 = Yes (ever told had kidney disease)"
+HadArthritis,"0 = No, 1 = Yes (ever told had arthritis)"
+HadDiabetes,"Categorical: Yes, No, Borderline, During pregnancy"
+DeafOrHardOfHearing,"0 = No, 1 = Yes (deaf or hard of hearing)"
+BlindOrVisionDifficulty,"0 = No, 1 = Yes (blind or serious vision difficulty)"
+DifficultyConcentrating,"0 = No, 1 = Yes (difficulty concentrating, remembering, or making decisions)"
+DifficultyWalking,"0 = No, 1 = Yes (difficulty walking or climbing stairs)"
+DifficultyDressingBathing,"0 = No, 1 = Yes (difficulty dressing or bathing)"
+DifficultyErrands,"0 = No, 1 = Yes (difficulty doing errands alone)"
+ChestScan,"0 = No, 1 = Yes (ever had a chest scan)"
+HIVTesting,"0 = No, 1 = Yes (ever been tested for HIV)"
+FluVaxLast12,"0 = No, 1 = Yes (flu vaccination in past 12 months)"
+PneumoVaxEver,"0 = No, 1 = Yes (ever had pneumococcal vaccine)"
+TetanusLast10Tdap,Tetanus shot in past 10 years: No / Yes (Td or Tdap / Unknown type)
+HighRiskLastYear,"0 = No, 1 = Yes (high risk for severe COVID‑19 in past year)"
+CovidPos,"COVID‑19 test result: Yes, No, Don’t know / Refused"
